@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi I'm Vaibhav Mehra
 
-- 🔭 I’m currently working at - Quovantis Tech, India
-- 🌱 I’m currently learning - Node.js with TypeScript
-- :dart: Tech stack I am working with - JavaScript, Express, Node, TypeScript, Mongo, Postgres, HTML5, CSS3
+I'm working as a Software Engineer at Quovantis Tech.
 
+My Tech Stack:-
+ JavaScript
+ React 
+ Redux
+ Python
+ TypeScript
