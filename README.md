@@ -1,3 +1,12 @@
-### Hi I'm Vaibhav Mehra
+Hi, I'm **Vaibhav Mehra**. I am working as a front end developer at **Tata AIG**.
 
-Software Engineer at Quovantis Tech.
+### Tech I love to work with
+ - REACT JS
+ - JS
+ - HTML5
+ - CSS3
+ - GATSBY
+ - NEXT
+ - NODE
+ - PYTHON
+
