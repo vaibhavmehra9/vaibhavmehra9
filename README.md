@@ -1,4 +1,4 @@
-Hi, I'm **Vaibhav Mehra**. I am working as a front end developer at **Tata AIG**.
+### Hi, I'm Vaibhav Mehra. I am working as a front end developer at Tata AIG.
 
 ### Tech Stack
  - REACT JS
